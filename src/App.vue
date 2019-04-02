@@ -2,8 +2,9 @@
   #app
     v-app
       v-content
-        v-containerHello world
+        v-container world
           v-btn ass
+        router-view
 </template>
 
 <script lang="ts">
