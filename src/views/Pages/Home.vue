@@ -1,7 +1,5 @@
 <template lang="pug">
   .home
-    img(alt="Vue logo" src="../../assets/logo.png")
-    v-btn sss
     HelloWorld(msg="Welcome to Your Vue.js + TypeScript App2")
 </template>
 
